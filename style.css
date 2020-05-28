@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Inconsolata&family=Nunito&family=Nunito+Sans&family=Pacifico&family=Quicksand&family=Rubik&family=VT323&display=swap');
+
+
+* {
+  padding:0;
+  margin: 5px 5px 5px 5px;
+  background-color: antiquewhite;
+  }
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: "Pacifico", sans-serif;
+  font-weight:300;
+  color: #FF3E80;
+  padding-bottom: 15px;
+}
+img {
+  border: 5px solid white;
+  border-radius: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+  display: box;
+  text-align: center;
+  
+}
+h2 {
+  font-size: 35px;
+  text-align: center;
+  text-emphasis: bold;
+  font-family: "Quicksand",cursive;
+  color: #838115
+}
+p {
+  font-size: 20px;
+  line-height: 1.3;
+  font-family: 'Nunito', monospace;
+  color:#FF3E80;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 500;
+  font-family: 'Rubik', Courier;
+  color: #838115;
+}
+ul {
+  font-size:18px;
+  font-family: 'Nunito Sans' , Courier;
+  color: #FF3E80;
+  padding-left: 30%;
+  width: 50%;
+}
+h4 {
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: 500;
+  color: #838115;
+  text-align: center;
+  padding-bottom: 10px;
+}
+a {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Pacifico', cursive;
+  margin: auto;
+  width: 100%;
+  padding-left: 40%;
+}
+h5 {
+  font-size: 30px;
+  text-align:center;
+  font-family: 'Rubik', monospace;
+  padding-bottom: 10px;
+}
